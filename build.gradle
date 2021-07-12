@@ -15,7 +15,7 @@ sourceSets.main.resources.srcDirs += 'resources'
 
 repositories {
     maven { url "https://maven.shedaniel.me/" }
-	maven { url "https://maven.terraformersmc.com/" }
+	maven { url "https://raw.githubusercontent.com/TerraformersMC/Archive/main/releases/" }
 }
 
 dependencies {
